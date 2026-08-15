@@ -1,4 +1,4 @@
-# DIPSHA-SISTERS-CO.-COFFEE-WEBPAGE
+# DIPSHA-SISTERS CO. COFFEE-WEBPAGE
 A modern, responsive, and visually appealing cafe website created to showcase a cafe's ambiance, menu, services, and contact information.
 
 This project focuses on creating an engaging user experience with a clean user interface, smooth navigation, and responsive design for different screen sizes.
